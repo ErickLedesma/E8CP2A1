@@ -125,5 +125,3 @@ module Ops
         file.close
     end     
 end 
-
-
